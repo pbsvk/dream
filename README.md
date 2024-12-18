@@ -2,7 +2,10 @@
 # AI Photo Generator
 
 Welcome to the **AI Photo Generator**! This web application allows users to generate images from text prompts using artificial intelligence. Whether you're looking for creative artwork or AI-driven visuals, this tool uses a simple text-to-image model to turn your imagination into a picture.
-<img width="1920" alt="AI Photo Generator" src="[https://github.com/user-attachments/assets/f904f67b-cc3b-4caa-807c-3241dd1b23cb](https://github.com/user-attachments/assets/7ab1b529-5b9c-4537-b5e9-73e8b0e3f1be)" />
+
+
+<img width="1920" alt="AI Photo Generator" src="https://github.com/user-attachments/assets/e9309a0a-9f34-492f-8acb-f917847ca32d" />
+
 
 ## Features
 
